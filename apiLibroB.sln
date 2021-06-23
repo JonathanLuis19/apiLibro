@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiLibroB", "apiLibroB\apiLibroB.csproj", "{45C16804-BBF0-4D5D-8313-B56A2C6A3377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45C16804-BBF0-4D5D-8313-B56A2C6A3377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C16804-BBF0-4D5D-8313-B56A2C6A3377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C16804-BBF0-4D5D-8313-B56A2C6A3377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C16804-BBF0-4D5D-8313-B56A2C6A3377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C643598A-6F3B-4F06-9DF1-CF41B0A5E87E}
+	EndGlobalSection
+EndGlobal
